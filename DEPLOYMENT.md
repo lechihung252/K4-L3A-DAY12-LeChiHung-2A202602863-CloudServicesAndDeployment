@@ -10,7 +10,7 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | Le Chi Hung |
+| Họ và tên | Lê Chí Hùng |
 | Mã học viên | 2A202602863 |
 | Repo | https://github.com/lechihung252/K4-L3A-DAY12-LeChiHung-2A202602863-CloudServicesAndDeployment |
 
